@@ -1,0 +1,12 @@
+{
+    "playpen sans arabic": {
+        "100": "\/home\/thinkprobd\/think.thinkprobd.site\/vendor\/dompdf\/dompdf\/lib\/fonts\/playpen_sans_arabic_100_02cd583f619101308d7cf25e564fec17",
+        "200": "\/home\/thinkprobd\/think.thinkprobd.site\/vendor\/dompdf\/dompdf\/lib\/fonts\/playpen_sans_arabic_200_cee416724c58f09eec2545a40eeb21ef",
+        "300": "\/home\/thinkprobd\/think.thinkprobd.site\/vendor\/dompdf\/dompdf\/lib\/fonts\/playpen_sans_arabic_300_cca1537a1ff81cb6a559df9fbc221552",
+        "normal": "\/home\/thinkprobd\/think.thinkprobd.site\/vendor\/dompdf\/dompdf\/lib\/fonts\/playpen_sans_arabic_normal_bc6862fcafbef80a20ac8602ce37c995",
+        "500": "\/home\/thinkprobd\/think.thinkprobd.site\/vendor\/dompdf\/dompdf\/lib\/fonts\/playpen_sans_arabic_500_7d231d03f1b35c66176809090c456e62",
+        "600": "\/home\/thinkprobd\/think.thinkprobd.site\/vendor\/dompdf\/dompdf\/lib\/fonts\/playpen_sans_arabic_600_c4ec2ce21d99a8b76b255d43657bd9f4",
+        "bold": "\/home\/thinkprobd\/think.thinkprobd.site\/vendor\/dompdf\/dompdf\/lib\/fonts\/playpen_sans_arabic_bold_f8f1ef46666b47a31df781776729f82c",
+        "800": "playpen_sans_arabic_800_99d56da21893e844260aa61556bab779"
+    }
+}
